@@ -16,6 +16,6 @@ design.
 🛠  Tech Stack  <br>
 
 ⚙️   Windows  <br>
-🌐   HTML5  CSS  Bootstrap  JavaScript  ReactJS  WordPress  <br>
+🌐   HTML5  CSS SCSS  Bootstrap  JavaScript  ReactJS  WordPress  <br>
 ⚙️   Git GitHub  <br>
 🔧   Visual Studio Code  
