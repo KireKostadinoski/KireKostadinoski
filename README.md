@@ -19,3 +19,8 @@ design.
 🌐   HTML5  CSS SCSS  Bootstrap  JavaScript  ReactJS  WordPress  <br>
 ⚙️   Git GitHub  <br>
 🔧   Visual Studio Code  
+
+Contact me! <br>
+✉️ k.kostadinoski@outlook.com <br>
+🔗 <a>www.linkedin.com/in/kire-kostadinoski-55a93117b</a>
+
