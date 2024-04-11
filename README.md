@@ -2,15 +2,12 @@ KIRE KOSTADINOSKI
 Frontend Developer
 
 👨🏻‍💻  About Me <br>
+Passionate about learning frontend development to create engaging and user-friendly web ecperiences. 
+Using everyday apps inspires me to start dive in web development.I believe in the power of continuous improvement 
+and am always excited to take on new challenges and projects to enhance my skills. 
+Let's connect! I'm open to collaboration and learning opportunities in the frontend development field. 
+Together, we can build the web of tomorrow.
 
-Beginner in the field of web programming <br> 
-oriented to daily learning and improvement. <br>
-Using web sites and web applications drew me to <br>
-research and learn about web programming. <br> 
-I have a special interest in
-achieving simple, <br>
-useful and modern web page
-design.
 
 
 🛠  Tech Stack  <br>
