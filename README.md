@@ -13,7 +13,7 @@ Together, we can build the web of tomorrow.
 🛠  Tech Stack  <br>
 
 ⚙️   Windows  <br>
-🌐   HTML5  CSS SCSS  Bootstrap  JavaScript  ReactJS  WordPress  <br>
+🌐   HTML5  CSS SCSS  Bootstrap Tailwind CSS  JavaScript  ReactJS  WordPress  <br>
 ⚙️   Git GitHub  <br>
 🔧   Visual Studio Code  
 
